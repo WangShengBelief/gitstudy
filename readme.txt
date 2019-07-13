@@ -1,4 +1,5 @@
 hello  git  ,i  do hard study for you ^_^
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa:
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabo
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb:w
+>>>>>>> b
